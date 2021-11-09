@@ -5,8 +5,9 @@
 I'm Andrickson, I’m 23 years old, I currently have a bachelor’s degree in Software Engineering, I specialize in iOS development, I'm pasionated about developing great products that makes the world easier. I really enjoy racing sports and also practice it such as car racing and tuning, I love to meditate and enjoy the peace of nature.
 
 ## Skills
-* :iphone: iOS development
-* Multithreading
+* 📱iOS development
+* 💻Multithreading
+* :
 Rest APIs
 Firebase
 User creation & Authentication
