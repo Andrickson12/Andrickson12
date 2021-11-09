@@ -10,10 +10,8 @@ I'm Andrickson, I’m 23 years old, I currently have a bachelor’s degree in So
 * 🟦 Xcode
 * 💻 Multithreading, Rest APIs, Third-party library
 * ♦️ Cocoapods
-* 🥸 Firebase
-User creation & Authentication
-Git
-Mobile applications
+* 🥸 Firebase, User creation & Authentication
+* and more...
 
 - 🔭 I’m currently working on Orlando O Spencer I, Inc. 
 
