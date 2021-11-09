@@ -5,17 +5,14 @@
 I'm Andrickson, I’m 23 years old, I currently have a bachelor’s degree in Software Engineering, I specialize in iOS development, I'm pasionated about developing great products that makes the world easier. I really enjoy racing sports and also practice it such as car racing and tuning, I love to meditate and enjoy the peace of nature.
 
 ## Skills
-* 📱iOS development
-* 💻Multithreading
-* :
-Rest APIs
-Firebase
+* 📱 iOS development
+* 🟧 Swift
+* 🟦 Xcode
+* 💻 Multithreading, Rest APIs, Third-party library
+* ♦️ Cocoapods
+* 🥸 Firebase
 User creation & Authentication
 Git
-Swift
-Third-party library
-Cocoapods
-Xcode
 Mobile applications
 
 - 🔭 I’m currently working on Orlando O Spencer I, Inc. 
