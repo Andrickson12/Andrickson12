@@ -6,7 +6,7 @@ I'm Andrickson, I’m 23 years old, I currently have a bachelor’s degree in So
 
 ## Skills
 * :iphone: iOS development
-Multithreading
+* Multithreading
 Rest APIs
 Firebase
 User creation & Authentication
