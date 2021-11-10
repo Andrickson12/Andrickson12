@@ -2,7 +2,7 @@
 #### Full stack iOS Developer
 ![Full stack iOS Developer](https://marketplace.canva.com/EAENvp21inc/1/0/1600w/canva-simple-work-linkedin-banner-qt_TMRJF4m0.jpg)
 
-I'm Andrickson, I’m 23 years old, I currently have a bachelor’s degree in Software Engineering, I specialize in iOS development, I'm pasionated about developing great products that makes the world easier. I really enjoy racing sports and also practice it such as car racing and tuning, I love to meditate and enjoy the peace of nature.
+I’m 23 years old, I currently have a bachelor’s degree in Software Engineering, I specialize in iOS development, I'm pasionated about developing great products that makes the world easier. I really enjoy racing sports and also practice it such as car racing and tuning, I love to meditate and enjoy the peace of nature.
 
 ## Skills
 * 📱 iOS development
@@ -17,5 +17,3 @@ I'm Andrickson, I’m 23 years old, I currently have a bachelor’s degree in So
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Andrickson12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.https://www.linkedin.com/in/andrickson-coste-490a701a3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/acdev23/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://andrickson.wixsite.com/iosengineer)  
-
-<p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p> :Swift
