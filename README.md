@@ -2,7 +2,7 @@
 #### Full stack iOS Developer
 ![Full stack iOS Developer](https://marketplace.canva.com/EAENvp21inc/1/0/1600w/canva-simple-work-linkedin-banner-qt_TMRJF4m0.jpg)
 
-I’m 24 years old, I currently have a bachelor’s degree in Software Engineering, I specialize in iOS development, I'm pasionated about developing great products that makes the world easier. I really enjoy racing sports and also practice it such as car racing and tuning, I love to meditate and enjoy the peace of nature.
+I currently have a bachelor’s degree in Software Engineering, and I specialize in mobile development, software desing and application performance. I'm pasionated about developing great products that makes the world easier.
 
 ## Skills
 * Computer science
@@ -15,7 +15,7 @@ I’m 24 years old, I currently have a bachelor’s degree in Software Engineeri
 * 🥸 Firebase, User creation & Authentication
 * and way more...
 
-- 🔭 I’m currently working on Orlando O Spencer I, Inc. 
+- 🔭 I’m currently working at Orlando O Spencer I, Inc. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Andrickson12) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/acdev23/)
