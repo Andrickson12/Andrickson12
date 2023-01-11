@@ -5,15 +5,17 @@
 I’m 24 years old, I currently have a bachelor’s degree in Software Engineering, I specialize in iOS development, I'm pasionated about developing great products that makes the world easier. I really enjoy racing sports and also practice it such as car racing and tuning, I love to meditate and enjoy the peace of nature.
 
 ## Skills
+* Computer science
+* Databases, Cloud storage, Offline storage
 * 📱 iOS development
 * 🟧 Swift
 * 🟦 Xcode
 * 💻 Multithreading, Rest APIs, Third-party library
 * ♦️ Cocoapods
 * 🥸 Firebase, User creation & Authentication
-* and more...
+* and way more...
 
 - 🔭 I’m currently working on Orlando O Spencer I, Inc. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Andrickson12)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.https://www.linkedin.com/in/andrickson-coste-490a701a3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/acdev23/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Andrickson12) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/acdev23/)
